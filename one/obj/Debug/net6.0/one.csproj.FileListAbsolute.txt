@@ -1,0 +1,15 @@
+C:\Users\Дом\Desktop\апуцвк\one\bin\Debug\net6.0\one.exe
+C:\Users\Дом\Desktop\апуцвк\one\bin\Debug\net6.0\one.deps.json
+C:\Users\Дом\Desktop\апуцвк\one\bin\Debug\net6.0\one.runtimeconfig.json
+C:\Users\Дом\Desktop\апуцвк\one\bin\Debug\net6.0\one.dll
+C:\Users\Дом\Desktop\апуцвк\one\bin\Debug\net6.0\one.pdb
+C:\Users\Дом\Desktop\апуцвк\one\obj\Debug\net6.0\one.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\апуцвк\one\obj\Debug\net6.0\one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\апуцвк\one\obj\Debug\net6.0\one.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\апуцвк\one\obj\Debug\net6.0\one.AssemblyInfo.cs
+C:\Users\Дом\Desktop\апуцвк\one\obj\Debug\net6.0\one.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\апуцвк\one\obj\Debug\net6.0\one.dll
+C:\Users\Дом\Desktop\апуцвк\one\obj\Debug\net6.0\refint\one.dll
+C:\Users\Дом\Desktop\апуцвк\one\obj\Debug\net6.0\one.pdb
+C:\Users\Дом\Desktop\апуцвк\one\obj\Debug\net6.0\one.genruntimeconfig.cache
+C:\Users\Дом\Desktop\апуцвк\one\obj\Debug\net6.0\ref\one.dll
